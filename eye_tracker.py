@@ -1,5 +1,4 @@
 import cv2
-from cv2 import INTER_MAX
 import mediapipe as mp
 import numpy as np
 import time
